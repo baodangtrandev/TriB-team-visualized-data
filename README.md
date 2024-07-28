@@ -9,22 +9,21 @@ The Data Visualization Application with pygwalker and streamlit library is a pow
 - User-Friendly Interface: Intuitive drag-and-drop interface for creating visualizations without any coding knowledge.
 - Customizable Themes: Apply different themes to your visualizations to match your style or corporate branding.
 - Working with big data: Our application can connect to multiple databases like mySQL, PostgreSQL, SQLite and more.
-## Demo UI
+## Demo Web UI
 - [Data UI](images/dataset_render.png)
 - [Visualize UI](images/demo_chart.png)
 ## Getting Started
-You can using online at [Online Tool](https://hcmut-student-visualization.streamlit.app/)
+- Because i use free cloud so there are some memory limitations. if the website has any error please contact me via [Contact](#Contact)
+- You can using online at [Online Tool](https://hcmut-student-visualization.streamlit.app/)
 ## Installation
-## Steps to Install
-
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/data-visualization-app.git
+    git clone https://github.com/baodangtrandev/Visualization-App.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd data-visualization-app
+    cd Visualization-App
     ```
 
 3. Install the dependencies:
@@ -37,6 +36,24 @@ You can using online at [Online Tool](https://hcmut-student-visualization.stream
     streamlit run app.py
     ```
 
-5. Open your web browser and go to `http://localhost:3000`.
+5. Open your web browser and go to:
+- Local URL: http://localhost:8501
+- Network URL: http://10.0.234.82:8501
+
+## Usage
+More information at: [DOCS](https://kanaries.net/pygwalker)
+
+## Development
+1. PygWalker Source: [Github](https://github.com/Kanaries/pygwalker)
+2. Streamlit Source: [Github](https://github.com/streamlit/streamlit)
+3. Others
+
+## Contact
+- [Linkedin](https://www.linkedin.com/in/baotrandang/)
+- [Facebook](https://www.facebook.com/dangbao.19)
+- [Instagram](https://www.instagram.com/dangbao.19?igsh=MWdkYjI1MjUybGVqYg%3D%3D&utm_source=qr)
+
+
+
 
 
