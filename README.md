@@ -9,7 +9,14 @@ The Data Visualization Application with pygwalker and streamlit library is a pow
 - User-Friendly Interface: Intuitive drag-and-drop interface for creating visualizations without any coding knowledge.
 - Customizable Themes: Apply different themes to your visualizations to match your style or corporate branding.
 - Working with big data: Our application can connect to multiple databases like mySQL, PostgreSQL, SQLite and more.
-[Data UI](images/dataset_render.png)
-[Visualize UI](images/demo_chart.png)
+## Demo UI
+- [Data UI](images/dataset_render.png)
+- [Visualize UI](images/demo_chart.png)
 ## Getting Started
 You can using online at [Online Tool](https://hcmut-student-visualization.streamlit.app/)
+## Installation
+```bash
+git clone 
+
+
+
