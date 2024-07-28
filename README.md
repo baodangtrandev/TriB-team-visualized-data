@@ -15,8 +15,28 @@ The Data Visualization Application with pygwalker and streamlit library is a pow
 ## Getting Started
 You can using online at [Online Tool](https://hcmut-student-visualization.streamlit.app/)
 ## Installation
-```bash
-git clone 
+## Steps to Install
 
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/data-visualization-app.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd data-visualization-app
+    ```
+
+3. Install the dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Start the development server:
+    ```bash
+    streamlit run app.py
+    ```
+
+5. Open your web browser and go to `http://localhost:3000`.
 
 
