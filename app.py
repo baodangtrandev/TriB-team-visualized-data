@@ -5,11 +5,12 @@ import numpy as np
 
 
 st.set_page_config(
-    page_title="TriB team - HCMUT student",
+    page_title="HCMUT Student Visualization Tool",
+    page_icon=":bar_chart:",
     layout="wide"
 )
 
-st.title("TriB Visualization App")
+st.title("HCMUT Student Visualization Tool") 
 
 selection = st.selectbox("Select your file type", ("*.csv", "*.xlsx", "*.json"))
 
