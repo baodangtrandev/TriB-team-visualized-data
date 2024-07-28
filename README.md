@@ -41,7 +41,7 @@ The Data Visualization Application with pygwalker and streamlit library is a pow
 - Network URL: http://10.0.234.82:8501
 
 ## Usage
-More information at: [DOCS](https://kanaries.net/pygwalker)
+More information at: [Docs](https://kanaries.net/pygwalker)
 
 ## Development
 1. PygWalker Source: [Github](https://github.com/Kanaries/pygwalker)
